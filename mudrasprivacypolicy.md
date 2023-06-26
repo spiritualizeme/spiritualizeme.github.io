@@ -1,76 +1,67 @@
-# Privacy Policy Template
+# Privacy Policy 
 
 
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
+**Spiritualize Me** built the app as a Free app with in-app-purchases for the Google Play Store. This SERVICE is provided by Spiritualize Me at no cost and is intended for use as is. 
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. 
+
+ If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. 
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at unless otherwise defined in this Privacy Policy. 
 
 
-## What is a Privacy Policy
+# Information Collection and Use
 
-A privacy policy is a description of what you do with personal data.  The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy. 
 
-**Note:** A Privacy Policy is not the same as the Terms and Conditions agreement. A Terms and Conditions is the agreement where you include the rules and guidelines that users must agree to in order to use your website or app.
+The app does use third party services that may collect information used to identify you. 
 
-
-## What is a Personal Data
-
-Personal data is any kind of data or information that can be considered personal (identifies an individual):
-
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+Link to privacy policy of third party service providers used by the app 
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 
-## When is a Privacy Policy required
+## Log Data 
 
-The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
-
-* Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. 
 
 
-## How this Privacy Policy Template works
+## Cookies 
 
-This document has been drafted in Markdown (MD) and in plain text (TXT), and can be converted to HTML using a huge number of open source and commercially available tools.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. 
 
-Elements that need to be filled in have been marked up with double brackets, as follows:
-
-	[["website" or "app"]]
-	[["we" or "I"]]
-	[["us" or "me"]]
-	[["our" or "my"]]
-
-Make sure to find and fill in them all!
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. 
 
 
-## Disclaimer
 
-You are free to use it on your own website or app. But before using this Privacy Policy Template you should be aware that you are responsible for its contents when published to your own website or app and that includes the accuracy of information.
+## Service Providers 
 
-This Privacy Policy Template is not legal advice, and is no substitute for a real live lawyer. Some places legally require that you have a privacy policy, and require that you describe certain things in it. Some places have (very specific) rules about what you are and aren't allowed to do with info about users. You should definitely talk with a lawyer about all this stuff, and they should definitely read and review your policy.
+We may employ third-party companies and individuals due to the following reasons: 
 
-You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
+* To facilitate our Service; 
+* To provide the Service on our behalf; 
+* To perform Service-related services; or 
+* To assist us in analyzing how our Service is used. 
+
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
+
+## Security 
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. 
 
 
-## License
+## Links to Other Sites 
 
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
 
+## Children’s Privacy 
 
-## Author
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. 
 
-Arthur Garegnyan
+## Changes to This Privacy Policy 
 
-* Email: arthurgareginyan@gmail.com
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. 
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
+## Contact Us 
 
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at help.spiritualizeme@gmail.com 
