@@ -19,11 +19,10 @@
   </p>
   <table>
     <tr>
-        <td>Foo</td>
+        <td><img src="assets/logo.png" alt="Logo" width="60" height="60"></td>
+      <td><h1>Spiritualize Me</h1></td>
     </tr>
-    <tr>
-        <td>Foo1</td>
-    </tr>
+  
 </table>
 </p>
 
