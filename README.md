@@ -1,3 +1,5 @@
+<img src="assets/header.png"/>
+<br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
