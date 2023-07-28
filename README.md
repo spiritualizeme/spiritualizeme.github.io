@@ -1,4 +1,4 @@
-<img src="assets/header.png"/>
+<a href="https://play.google.com/store/apps/developer?id=Spiritualize+Me"><img src="assets/header.png"/></a>
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
