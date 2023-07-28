@@ -1,7 +1,10 @@
 <a href="https://play.google.com/store/apps/developer?id=Spiritualize+Me"><img src="assets/header.png"/></a>
 <br/>
 <p>
-  <img src="assets/logo.svg" alt="Logo">
+  <img src="assets/logo.svg">
+  <p align="center">
+    Explore a world of innovation and creativity as we present our finest selection of cutting-edge mobile applications. Each app is meticulously crafted to deliver a seamless and engaging user experience, tailored to meet diverse needs and preferences.
+  </p>
 </p>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
