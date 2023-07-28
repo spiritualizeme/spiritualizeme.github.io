@@ -17,6 +17,14 @@
     <br/>
     <br/>
   </p>
+  <table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+    <tr>
+        <td>Foo1</td>
+    </tr>
+</table>
 </p>
 
 <img src="assets/6.png" width="150px" height="150px"/>
