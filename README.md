@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">ReadME Generator</h3>
@@ -19,7 +19,7 @@
   </p>
   <table>
     <tr>
-        <td><img src="assets/logo.png" alt="Logo" width="60" height="60"></td>
+        <td><img src="assets/logo.png" alt="Spiritualize Me"></td>
       <td><h1>Spiritualize Me</h1></td>
     </tr>
   
