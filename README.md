@@ -30,11 +30,11 @@
     <a href='https://play.google.com/store/apps/details?id=yoga.meditation.sounds.meditationmusic.yogamusic.music'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a>
     <br/>
     <br/>
-    <img src="assets/chalisa.webp" width="150px" height="150px"/>
+    <img src="assets/pranayama.webp" width="150px" height="150px"/>
     <br/>
-    <a href="https://play.google.com/store/apps/details?id=com.chalisa.aarati.bhajan"><strong>Chalisa Aarti & Vrat katha</strong><br/></a>
-  According to Hinduism, each day is important. In today's world every person is moving very fast and have very less time for mental peace. These Pooja practices will help in dropping your stress and anxiety, and discover a lasting calm that comes from within, in just a few minutes a day.
+    <a href="https://play.google.com/store/apps/details?id=pranayama.yoga.breathingexercises"><strong>Pranayama : Breathing Exercise</strong><br/></a>
+  Unlock the power of breathing exercises with pranayama. Pranayama is an ancient practice rooted in Indian tradition, harnessing the power of breath control to enhance physical, mental, and spiritual well-being. Originating from the Vedic texts over 5,000 years ago, it plays a vital role in yoga, promoting holistic health and vitality. It is also approved by modern science.
     <br/>
-    <a href='https://play.google.com/store/apps/details?id=com.chalisa.aarati.bhajan'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a>
+    <a href='https://play.google.com/store/apps/details?id=pranayama.yoga.breathingexercises'><img alt='Get it on Google Play' height="80" src='assets/badge_playstore.png'/></a>
   </p>
 
