@@ -71,7 +71,6 @@ Data is retained on your device as long as the app is installed or until you cho
 *   **Access:** You can view all your practice data directly within the app at any time
 *   **Deletion:** You can delete your health data yourself directly within the app — no need to contact us
 *   **Full control:** Uninstalling the app will permanently remove all locally stored health data from your device
-*   **Opt-out:** You may disable progress tracking at any time in the app settings
 
 ---
 
