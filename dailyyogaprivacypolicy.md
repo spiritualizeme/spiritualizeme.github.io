@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Spiritualize Me** built the **Daily Yoga | Meditation App** as a Free app with in-app purchases. This SERVICE is provided by Spiritualize Me and is intended for use as is.
+**Spiritualize Me** built the **Daily Yoga - Meditation App** as a Free app with in-app purchases. This SERVICE is provided by Spiritualize Me and is intended for use as is.
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decides to use our Service.
 
@@ -10,7 +10,7 @@ By using our Service, you agree to the collection and use of information in acco
 
 ## Health & Fitness Data
 
-**Daily Yoga | Meditation App** is a health and wellness application that provides yoga exercises, guided sessions, and meditation techniques.
+**Daily Yoga - Meditation App** is a health and wellness application that provides yoga exercises, guided sessions, and meditation techniques.
 
 We clearly disclose the following:
 
