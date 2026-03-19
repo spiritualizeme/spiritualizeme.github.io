@@ -1,154 +1,166 @@
 # Privacy Policy
 
-**Spiritualize Me** built the **Pranayama : Breathing Exercises** app as a Free app with in-app-purchases for the Google Play Store. This SERVICE is provided by Spiritualize Me at no cost and is intended for use as is.
+**Spiritualize Me** built the **Pranayama: Breathing Exercises** app as a free application with optional in-app purchases. This Service is provided by Spiritualize Me and is intended for use as is.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at unless otherwise defined in this Privacy Policy.
+By using our Service, you agree to this Privacy Policy and consent to the collection and use of information in accordance with it.
 
 **Last updated: March 19, 2026**
 
 ---
 
-# Information Collection and Use
+## Information Collection and Use
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience while using our Service, we may require you to provide certain personally identifiable information. The information that we request is retained on your device and used as described in this Privacy Policy.
 
-The app does use third party services that may collect information used to identify you.
+The app may use third-party services that collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app:
+**Third-party services used:**
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- Google Play Services  
+- Google Analytics for Firebase  
+- Firebase Crashlytics  
 
 ---
 
-# Health and Fitness Data
+## Health and Fitness Data
 
-Our app, **Pranayama: Breathing Exercises**, is a health and wellness application focused on breathing techniques and respiratory health. As required by Google Play's User Data Policy, we fully disclose how we handle health and fitness related data.
+Our app, **Pranayama: Breathing Exercises**, is a health and wellness application designed to support breathing practices and respiratory well-being. In line with Google Play’s User Data Policy, we are fully transparent about how health and fitness data is handled within the app.
 
 ### Health Data We Collect
 
-The app may collect and process the following health and fitness related information:
+The app may collect and process the following health-related data:
 
-*   Breathing exercise sessions (type, duration, and frequency)
-*   Pranayama technique history and session logs
-*   Breath hold and retention timing data
-*   Daily breathing practice streaks and progress
-*   User wellness goals and breathing preferences set within the app
-*   Breathing routine customizations and schedules
-*   Reminder and notification preferences for practice sessions
+- Breathing exercise sessions (type, duration, frequency)  
+- Pranayama practice history and session logs  
+- Breath retention and timing data  
+- Daily streaks and progress tracking  
+- User-defined wellness goals and preferences  
+- Custom breathing routines and schedules  
+- Reminder and notification preferences  
 
 ### How We Use Health Data
 
-*   To personalize your breathing exercise and pranayama experience
-*   To track your wellness progress and display your practice history
-*   To provide technique recommendations based on your practice habits
-*   To improve app features, content, and overall service quality
-*   To send relevant practice reminders and notifications (only if you have enabled them)
+We use this data to:
+
+- Personalize your breathing experience  
+- Track progress and display history  
+- Provide relevant technique recommendations  
+- Improve app features and performance  
+- Send reminders (only if enabled by the user)  
 
 ### Health Data Sharing
 
-We **do not collect, share, or transmit** your health or fitness data to any server, third party, or external service — ever. Your health data is:
+We **do not share, transmit, or sell** your health or fitness data.
 
-*   **Never sent to our servers**
-*   **Never shared with any third party**
-*   **Never used for advertising purposes**
-*   **Never included in crash reports or analytics**
+- Health data is **never sent to our servers**  
+- Health data is **never shared with third parties**  
+- Health data is **never used for advertising**  
+- Health data is **never included in analytics or crash reports**  
 
-Your health and fitness data belongs entirely to you and stays only on your device.
+Third-party services (such as Firebase Analytics and Crashlytics) may collect **technical and usage data only**, and do **not access or process any health-related data**.
 
 ### Health Data Storage and Retention
 
-All health and fitness data (breathing sessions, practice history, progress tracking) is stored **exclusively on your local device**. We do not have access to this data and it never leaves your device.
+All health data is stored **locally on your device only**.
 
-Data is retained on your device as long as the app is installed or until you choose to delete it yourself.
+- We do not store your health data on external servers  
+- We do not have access to your personal health data  
+- Data remains on your device until you delete it  
 
 ### Your Rights Over Health Data
 
-*   **Access:** You can view all your practice data directly within the app at any time
-*   **Deletion:** You can delete your health data yourself directly within the app — no need to contact us
-*   **Full control:** Uninstalling the app will permanently remove all locally stored health data from your device
+You have full control over your data:
+
+- **Access:** View your data anytime inside the app  
+- **Deletion:**  
+  - Clear app data from device settings  
+  - Uninstall the app  
+- **Full Control:** Data is permanently deleted upon uninstall  
 
 ---
 
-# Log Data
+## Log Data
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+In case of an error in the app, we may collect Log Data through third-party tools. This may include:
 
-Log data is used exclusively for debugging and improving app stability. It is not linked to your health or personal data.
+- IP address  
+- Device name  
+- Operating system version  
+- App configuration  
+- Time and date of usage  
 
----
-
-# Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these "cookies" explicitly. However, the app may use third party code and libraries that use "cookies" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This data is used **only for debugging and improving app stability** and is not linked to health data.
 
 ---
 
-# Service Providers
+## Cookies
 
-We may employ third-party companies and individuals due to the following reasons:
+This Service does not use cookies directly. However, third-party services may use cookies or similar technologies to improve their services.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+You can choose to accept or refuse cookies through your device settings.
 
 ---
 
-# Security
+## Service Providers
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. We are committed to:
+We may employ third-party companies for:
 
-*   Using industry-standard encryption for data in transit
-*   Limiting access to personal data to authorized personnel only
-*   Regularly reviewing our data security practices
+- Facilitating the Service  
+- Providing analytics and crash reporting  
+- Improving app performance  
 
-But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
----
-
-# Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+These third parties may have access to limited technical data but are obligated not to use it for any other purpose.
 
 ---
 
-# Children's Privacy
+## Security
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+We value your trust and take reasonable steps to protect your data:
 
----
+- Industry-standard security practices  
+- Restricted access to data  
+- Regular security reviews  
 
-# Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
----
-
-# Contact Us
-
-If you have any questions, concerns, or suggestions about our Privacy Policy or the app, do not hesitate to reach out to us. We typically respond within 2–3 business days.
-
-### 📧 Email
-[help.wellnesss@gmail.com](mailto:help.wellnesss@gmail.com)
-
-### 📱 App
-**Pranayama: Breathing Exercises**
-Developed by **Spiritualize Me**
-
-### 🌐 Developer
-**Spiritualize Me**
-India
+However, no method of transmission or storage is 100% secure.
 
 ---
 
-*You can also reach us directly through the feedback option available inside the app.*
+## Links to Other Sites
+
+This app may contain links to external websites. We are not responsible for their content or privacy practices. Please review their privacy policies separately.
+
+---
+
+## Children's Privacy
+
+This Service is not intended for children under the age of 13.
+
+We do not knowingly collect personal data from children. If such data is discovered, it will be deleted immediately.
+
+Parents or guardians can contact us if needed.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page and become effective immediately.
+
+---
+
+## Legal Compliance
+
+This Privacy Policy is governed by the laws of India.
+
+---
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+📧 **help.wellnesss@gmail.com**  
+
+**App:** Pranayama: Breathing Exercises  
+**Developer:** Spiritualize Me  
+**Location:** India  
+
+You can also contact us through the in-app feedback option.
