@@ -1,6 +1,17 @@
 # Privacy Policy
 
-**Spiritualize Me** built the **Surya Namaskar: Stretching Exercise** app as a Free app with in-app purchases. This SERVICE is provided by Spiritualize Me and is intended for use as is.
+This Privacy Policy applies to the **Surya Namaskar: Stretching Exercise** app (the “Service”).
+
+The Service is developed and published by:
+
+* **Spiritualize Me** (for Android / Google Play Store)
+* **Amit Kumar Bhati** (for iOS / Apple App Store)
+
+Both entities are collectively referred to as **“we”, “our”, or “us”** in this Privacy Policy.
+
+---
+
+## Information We Provide
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decides to use our Service.
 
@@ -14,7 +25,7 @@ By using our Service, you agree to the collection and use of information in acco
 
 We clearly disclose the following:
 
-* We do **NOT collect, store, or share any personal health data**, such as medical records, diagnosis, or biometric information.
+* We do **NOT collect, store, or share any personal health data**, such as medical history, diagnosis, or biometric information.
 * Any activity within the app (such as selected routines, session progress, or preferences):
 
   * Is stored **locally on your device**
@@ -29,7 +40,7 @@ All content is provided for general fitness and wellness purposes only and shoul
 
 We do not require users to create an account or provide personally identifiable information.
 
-However, the app may automatically collect limited **non-personal data** through third-party services, including:
+However, the app may automatically collect limited **non-personal data** through trusted third-party services, including:
 
 * Device information (e.g., device model, operating system version)
 * App usage data (e.g., screens visited, session duration)
@@ -50,7 +61,7 @@ We do **not collect sensitive personal data** such as health records, contacts, 
 The app uses the following third-party services:
 
 * **Google Play Services**
-* **Google Analytics for Firebase**
+* **Firebase Analytics**
 * **Firebase Crashlytics**
 
 These services may collect:
@@ -58,7 +69,6 @@ These services may collect:
 * Device information
 * Usage data
 * Crash logs
-* Approximate location (via IP address)
 
 This data is used strictly for:
 
@@ -141,7 +151,7 @@ to remove locally stored data.
 
 This Service is not intended for children under the age of 13.
 
-We do not knowingly collect personal information from children. If we discover such data, we will take steps to remove it.
+We do not knowingly collect personal information from children. If we discover such data, we will take appropriate steps to remove it.
 
 ---
 
@@ -155,6 +165,6 @@ Changes will be posted on this page and are effective immediately after posting.
 
 ## Contact Us
 
-If you have any questions or suggestions, contact us at:
+If you have any questions or suggestions regarding this Privacy Policy, you may contact us at:
 
 📧 **[help.wellnesss@gmail.com](mailto:help.wellnesss@gmail.com)**
